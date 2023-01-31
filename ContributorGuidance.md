@@ -8,7 +8,7 @@ Short application checklist:
 
 1. **Read the links and instructions** given on this site -- All of it! we've tried to give you all the information you need to be an awesome GSoC applicant.
 
-2. **Choose a project** that you want to contibute to ([check the list here](ProjectIdeas)).
+2. **Choose a project** that you want to contibute to ([check the list here](ProjectIdeas.md)).
 
 3. **Join the [Discord server](https://discord.gg/the-algorithms-808045925556682782)** to communicate with the members of The Algoriths organization. 
 
@@ -16,7 +16,7 @@ Short application checklist:
 
 5. **Prepare a patch for that project**. Usually we expect GSoC contributors to fix a bug and have made a pull request (or equivalent). Your code doesn't have to be accepted and merged, but it does have to be visible to the public and it does have to be your own work.
 
-6. **Write your application** (reachout on discord for help). We have an [Application Template](ApplicationTemplate) to help you make sure you include all the information we expect. All applications must go through Google's application system; we can't accept any application unless it is submitted there.
+6. **Write your application** (reachout on discord for help). We have an [Application Template](ApplicationTemplate.md) to help you make sure you include all the information we expect. All applications must go through Google's application system; we can't accept any application unless it is submitted there.
 
     1. Use a descriptive title and include your project name in Google's system. 
         
@@ -43,7 +43,7 @@ An ideal application will contain 5 things:
 4. Information about your **proposed project**. This should be fairly detailed and include a timeline.
 5. **Information about other commitments** that might affect your ability to work during the GSoC period. (exams, classes, holidays, other jobs, weddings, etc.) We can work around a lot of things, but it helps to know in advance.
 
-We also provide an [application template](ApplicationTemplate) to help you get started.
+We also provide an [application template](ApplicationTemplate.md) to help you get started.
 
 
 
@@ -53,7 +53,9 @@ We also provide an [application template](ApplicationTemplate) to help you get s
 
 Community
 
-* [Discord Server](https://discord.gg/the-algorithms-808045925556682782)
+* Discord Server
+    - [GSoC channel](https://discord.com/channels/808045925556682782/1069911289469620276)
+    - [Inivitation link](https://discord.gg/the-algorithms-808045925556682782)
 
 Admins
 
