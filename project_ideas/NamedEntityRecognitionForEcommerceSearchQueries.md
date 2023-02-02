@@ -34,5 +34,5 @@ References:
 
 ## Technologies
 `
-Technologies: Python, AI/ML, NLP
+Python, AI/ML, NLP
 `
