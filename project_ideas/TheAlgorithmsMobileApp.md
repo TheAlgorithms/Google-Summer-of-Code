@@ -20,4 +20,6 @@ Key Features
 3. User Profile: The app will allow users to create a profile and store their progress, so that they can pick up where they left off the next time they use the app.
 
 ## Technologies
+`
 Flutter, GitHub API, Flask/NodeJs
+`
