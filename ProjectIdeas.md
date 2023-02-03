@@ -1,5 +1,13 @@
 # Google Summer of Code Project Ideas
 
+## Personalised Discounts
+```
+Technologies: Python, AI/ML
+```
+The Personalized Discounts Project aims to leverage Machine Learning (ML) algorithms to dynamically personalize discounts for customers based on their purchase history and demographics. The objective is to increase customer loyalty and sales while optimizing the company's revenue.
+
+[view details](project_ideas/PersonalisedDiscounts.md)
+
 ## Named Entity Recognition for Ecommerce Search Queries
 
 ```
