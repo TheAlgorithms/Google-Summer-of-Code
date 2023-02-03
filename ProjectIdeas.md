@@ -1,13 +1,5 @@
 # Google Summer of Code Project Ideas
 
-## Personalised Discounts
-```
-Technologies: Python, AI/ML
-```
-The Personalized Discounts Project aims to leverage Machine Learning (ML) algorithms to dynamically personalize discounts for customers based on their purchase history and demographics. The objective is to increase customer loyalty and sales while optimizing the company's revenue.
-
-[view details](project_ideas/PersonalisedDiscounts.md)
-
 ## Named Entity Recognition for Ecommerce Search Queries
 
 ```
@@ -27,3 +19,15 @@ Technologies: Flutter, GitHub API, Flask
 The Algorithms mobile app provides a comprehensive and user-friendly platform for learning computer science algorithms and data structures. The app features a variety of algorithms and data structures, including sorting, searching, and graph algorithms, explained through interactive tutorials and animations. The app includes a range of difficulty levels, so users can start with basic algorithms and gradually progress to more advanced topics. With an intuitive interface and detailed explanations, the app is the perfect tool for anyone looking to learn or improve their understanding of algorithms and data structures.
 
 [view details](project_ideas/TheAlgorithmsMobileApp.md)
+
+## The Algorithms website
+
+```
+Technologies: ReactJS, Node.Js, HTML, CSS
+```
+
+The Algorithms website exist today with some basic functionalities. The idea is to have a well versed website with enhanced functionalities like:
+  - Gamification features like leaderboard of top contributors.
+  - Enhanced search functionality of algorithms within the website.
+  - Coin related gamification, e.g. 1 coin per PR merged which can be further redeemed for swags.
+  - Sources to read more about how complex algorithms are used in the tech world.
