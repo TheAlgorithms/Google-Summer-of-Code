@@ -39,3 +39,6 @@ The Algorithms website exist today with some basic functionalities. The idea is 
   - Enhanced search functionality of algorithms within the website.
   - Coin related gamification, e.g. 1 coin per PR merged which can be further redeemed for swags.
   - Sources to read more about how complex algorithms are used in the tech world.
+
+[view details](project_ideas/TheAlgorithmsWebsite.md)
+
