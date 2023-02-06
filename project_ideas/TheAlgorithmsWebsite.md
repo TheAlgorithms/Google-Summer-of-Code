@@ -1,4 +1,4 @@
-# Expected features of TheAlgorithms website
+# The Algorithms website
 
 The basic expected features of the website can be as follows:
 
@@ -38,3 +38,8 @@ On the top of these, there can be some gamification features:
 - Enhanced search functionality of algorithms within the website.
 - Coin related gamification, e.g. 1 coin per PR merged which can be further redeemed for swags.
 - Sources to read more about how complex algorithms are used in the tech world.
+
+## Technologies
+`
+ReactJs, GitHub API, Flask/NodeJs
+`
