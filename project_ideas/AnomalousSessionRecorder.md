@@ -9,6 +9,11 @@ Key features:
 - A web dashboard to access the recorded sessions.
 - Take feedback on false positive detections and improve accuracy.
 
+Key Components:
+
+- Core: The main engine that will classify the session as anomalous or normal.
+- JS Library: This will stay on the Frontend to connect, record & send sessions to the core.
+
 The library will be implemented in Python and will use machine learning algorithms to detect anomalies in user sessions. It will store the data in a NoSQL database for scalability and quick retrieval. The video recording of anomalous sessions will also be stored on the server.
 
 This will help better understand user behavior and improve the application accordingly.
@@ -17,3 +22,7 @@ This will help better understand user behavior and improve the application accor
 `
 Technologies: Python, AI/ML, NoSQL, Data Visualization
 `
+
+Repos:
+- https://github.com/TheAlgorithms/SessionGuard-Core
+- https://github.com/TheAlgorithms/SessionGuard.js
