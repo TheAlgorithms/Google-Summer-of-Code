@@ -12,3 +12,5 @@ The project will be evaluated based on metrics such as increased customer loyalt
 `
 Python, AI/ML
 `
+
+Repo: https://github.com/TheAlgorithms/Personalised-Discounts
