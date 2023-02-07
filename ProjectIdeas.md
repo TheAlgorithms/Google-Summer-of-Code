@@ -18,6 +18,18 @@ The goal of this project is to build an AI-based Named Entity Recognition for sh
 
 [view details](project_ideas/NamedEntityRecognitionForEcommerceSearchQueries.md)
 
+
+## Anomalous Session Recorder
+
+```
+Technologies: Python, AI/ML, NoSQL, Data Visualization
+```
+
+This library aims to record and analyze user sessions on a web application to detect and flag any anomalies. Anomalies can be defined as deviant or unusual behavior, such as sudden spikes in activity, accessibility issues, page not working or access to restricted resources.
+
+[view details](project_ideas/AnomalousSessionRecorder.md)
+
+
 ## The Algorithms Mobile App
 
 ```
