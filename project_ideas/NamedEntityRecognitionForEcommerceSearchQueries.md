@@ -1,6 +1,5 @@
 # Named Entity Recognition For E-Commerce Search Queries
 
-### Project Name: EcomEntity
 
 The goal of this project is to build an AI-based Named Entity Recognition for shopping search query parsing that will enable users to search for products on an e-commerce platform with more accuracy and ease. The parser will use natural language processing techniques to understand and interpret the user's search query and match it to the products available on the platform.
 
